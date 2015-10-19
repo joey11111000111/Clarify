@@ -4,7 +4,7 @@
 
     <groupId>joey-learning-group</groupId>
     <artifactId>dismiss-the-chaos</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <!-- Elements I understand -->
     <description>This is the description of the project</description>
